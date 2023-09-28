@@ -195,5 +195,6 @@ NAME : BRINDHA R
 
 REGNO: 212222230023
 
+
 ### RESULT:
 Thus, Manager database is created and DML queries such as insertion, updation, deletion are executed using SQL.
