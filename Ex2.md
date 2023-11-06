@@ -1,4 +1,5 @@
 # EX 2 Data Manipulation Language (DML) Commands and built in functions in SQL
+## DATE: 11.8.23
 ## AIM:
 To create a manager database and execute DML queries using SQL.
 
@@ -196,5 +197,5 @@ NAME : BRINDHA R
 REGNO: 212222230023
 
 
-### RESULT:
+## RESULT:
 Thus, Manager database is created and DML queries such as insertion, updation, deletion are executed using SQL.
